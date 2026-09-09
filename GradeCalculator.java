@@ -1,3 +1,12 @@
+/*
+Author: Charles Cooper
+File: Grade Calculator
+Created On: September 9, 2026
+Last Modified: September 9, 2026
+Description: Calculator for grades
+*/
+
+
 import java.util.Scanner;
 
 public class GradeCalculator {
